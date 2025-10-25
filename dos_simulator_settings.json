@@ -1,0 +1,13 @@
+{
+  "target": "192.168.56.1",
+  "port": 80,
+  "fake_ip": "172.11.14.24",
+  "num_threads": 10,
+  "min_delay": 0.01,
+  "max_delay": 0.05,
+  "packet_size": 64,
+  "attack_type": "SYN Flood",
+  "log_level": "Normal",
+  "reflector_ip": "8.8.8.8",
+  "reflector_port": 53
+}
